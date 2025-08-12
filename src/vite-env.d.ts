@@ -1,1 +1,3 @@
 /// <reference types="vite/client" />
+NEXT_PUBLIC_SUPABASE_URL=https://xqtjmieqrghbwakveyei.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhxdGptaWVxcmdoYndha3ZleWVpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ5ODU5MTgsImV4cCI6MjA3MDU2MTkxOH0.hAi7dzWLaCQiH2qXtbWngaDqHj6_1r2vNxK_IWI0VXE
